@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/liber/proprietary/product/lib64/libarcsoftcalibration_jni.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libarcsoftcalibration_jni.so \
     vendor/motorola/liber/proprietary/product/lib64/libarcsoftverification_jni.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libarcsoftverification_jni.so \
     vendor/motorola/liber/proprietary/vendor/bin/capsense_reset:$(TARGET_COPY_OUT_VENDOR)/bin/capsense_reset \
-    vendor/motorola/liber/proprietary/vendor/bin/charge_only_mode:$(TARGET_COPY_OUT_VENDOR)/bin/charge_only_mode \
     vendor/motorola/liber/proprietary/vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-goodixservice:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.biometrics.fingerprint@2.1-goodixservice \
     vendor/motorola/liber/proprietary/vendor/bin/hw/motorola.hardware.popup.akm@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/motorola.hardware.popup.akm@1.0-service \
     vendor/motorola/liber/proprietary/vendor/bin/sensors.qti:$(TARGET_COPY_OUT_VENDOR)/bin/sensors.qti \
